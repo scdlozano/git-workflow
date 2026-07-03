@@ -2,7 +2,7 @@
 Steps 1-6 are in the local repo\
 Steps 7-9 are on Github\
 Steps 10-12 are back in the local repo
-1.git clone <url to ORI repo>
+1. git clone <url to ORI repo>
 2. git branch
 3. git checkout -b new-branch-name
 4. Implement new features in this branch
